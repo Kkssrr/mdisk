@@ -10,10 +10,20 @@ echo "Starting Bot...."
 
 python3 main.py
 
-Footer
 
-© 2023 GitHub, Inc.
 
-Footer navigation
 
-Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
